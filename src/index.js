@@ -31,4 +31,4 @@ function atacar(heroi){
     console.log(`O ${heroi.tipo} atacou usando ${ataque}`)
 }
 
-atacar(guerreiro)
+atacar(monge)
